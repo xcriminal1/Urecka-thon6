@@ -1,0 +1,617 @@
+.cyberpunkUrbanScenery23215Icon {
+  position: absolute;
+  top: 0;
+  left: -356px;
+  width: 1138.6px;
+  height: 831px;
+  object-fit: cover;
+}
+.rulesChild {
+  position: absolute;
+  top: -115px;
+  left: -488px;
+  width: 1440px;
+  height: 1015px;
+}
+.vectorIcon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 248.65px);
+  width: 497.3px;
+  height: 36px;
+}
+.rulesModule {
+  margin-block-start: 0;
+  margin-block-end: 2.14px;
+}
+.loading {
+  margin: 0;
+}
+.rulesModuleLoadingContainer {
+  position: absolute;
+  top: 6.7px;
+  left: 5.6px;
+  line-height: 75%;
+  font-weight: 600;
+}
+.vector {
+  position: absolute;
+  top: 37px;
+  left: calc(50% - 186px);
+  width: 497.3px;
+  height: 36px;
+  text-align: left;
+  font-size: 6.9px;
+  color: var(--color-gray-100);
+}
+.frameChild,
+.frameItem {
+  width: 19px;
+  position: relative;
+  height: 24.1px;
+}
+.frameChild {
+  object-fit: contain;
+  z-index: 0;
+}
+.frameItem {
+  z-index: 1;
+}
+.frameChild1,
+.frameChild2,
+.frameInner,
+.groupIcon {
+  width: 19px;
+  position: relative;
+  height: 24.1px;
+  z-index: 2;
+}
+.frameChild1,
+.frameChild2,
+.groupIcon {
+  z-index: 3;
+}
+.frameChild1,
+.frameChild2 {
+  z-index: 4;
+}
+.frameChild2 {
+  z-index: 5;
+}
+.polygonIcon {
+  width: 14.1px;
+  position: absolute;
+  margin: 0 !important;
+  top: 3.1px;
+  left: 4.2px;
+  height: 17.8px;
+  object-fit: contain;
+  z-index: 6;
+}
+.vectorParent {
+  position: absolute;
+  top: 219px;
+  left: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 35.72px 0;
+}
+.content,
+.content1,
+.content2,
+.content3,
+.content4 {
+  position: absolute;
+  line-height: 100%;
+  display: inline-block;
+}
+.content {
+  top: 222.1px;
+  left: 42.6px;
+  font-size: 9.8px;
+  width: 304.2px;
+}
+.content1,
+.content2,
+.content3,
+.content4 {
+  top: 406.8px;
+  left: 43.6px;
+  width: 315.4px;
+}
+.content2,
+.content3,
+.content4 {
+  top: 525px;
+}
+.content3,
+.content4 {
+  top: 346.6px;
+}
+.content4 {
+  top: 286.4px;
+}
+.rules1 {
+  position: absolute;
+  top: 122.1px;
+  left: 23px;
+  font-size: var(--font-size-13xl-9);
+  line-height: 75%;
+  font-weight: 600;
+  text-align: left;
+}
+.rulesItem {
+  position: absolute;
+  top: 143px;
+  left: 24.6px;
+  width: 104.4px;
+  height: 3.4px;
+  object-fit: contain;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 382.5px);
+  background-color: var(--color-black);
+  filter: blur(42.09px);
+  width: 765px;
+  height: 162.4px;
+}
+.frameChild3 {
+  top: 0;
+  left: 10.1px;
+  z-index: 0;
+}
+.frameChild3,
+.frameChild4,
+.frameChild5,
+.frameChild6 {
+  width: 6px;
+  position: absolute;
+  margin: 0 !important;
+  height: 6px;
+}
+.frameChild4 {
+  top: 0;
+  left: 0.2px;
+  object-fit: contain;
+  z-index: 1;
+}
+.frameChild5,
+.frameChild6 {
+  top: 15.9px;
+  left: 10.1px;
+  z-index: 2;
+}
+.frameChild6 {
+  top: 9.9px;
+  left: 0.2px;
+  object-fit: contain;
+  z-index: 3;
+}
+.vectorGroup {
+  position: absolute;
+  top: 0;
+  left: calc(50% + 11.5px);
+  width: 16.1px;
+  height: 15.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 0.25px;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  border: 0.8px solid var(--color-indianred);
+  box-sizing: border-box;
+  width: 9.6px;
+  height: 9.6px;
+}
+.frameChild7 {
+  top: 0;
+  left: 1.2px;
+  background-color: var(--color-indianred);
+  width: 0.5px;
+}
+.frameChild7,
+.frameChild8,
+.rectangleGroup {
+  position: absolute;
+  height: 2.9px;
+}
+.frameChild8 {
+  top: 1.7px;
+  left: 2.9px;
+  background-color: var(--color-indianred);
+  width: 0.5px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.rectangleGroup {
+  top: 3.5px;
+  left: 3.5px;
+  width: 2.9px;
+}
+.ellipseParent,
+.groupWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 9.6px;
+  height: 9.6px;
+}
+.groupWrapper {
+  top: 3.2px;
+  left: 42.3px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupInner,
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-indianred);
+  width: 3.1px;
+  height: 13.2px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5,
+.groupInner {
+  top: 1.3px;
+  left: 13.9px;
+}
+.groupChild2,
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  left: 5.9px;
+}
+.groupChild3,
+.groupChild4,
+.groupChild5 {
+  left: 9.9px;
+}
+.groupChild4,
+.groupChild5 {
+  top: 13.8px;
+  left: 0;
+  height: 0.8px;
+}
+.groupChild5 {
+  top: 15.2px;
+}
+.groupChild6 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  width: 29.2px;
+  height: 15.9px;
+}
+.frameGroup {
+  position: absolute;
+  top: 5.3px;
+  left: calc(50% - 47.65px);
+  width: 55.2px;
+  height: 16.1px;
+}
+.a,
+.idref21009157,
+.levelUp3,
+.modelLine,
+.streetCred {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 75%;
+  font-weight: 600;
+  background: linear-gradient(#db544c, #db544c),
+    linear-gradient(#db544c, #db544c), #db544c;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.a,
+.idref21009157,
+.levelUp3,
+.streetCred {
+  left: 61.1px;
+}
+.idref21009157,
+.levelUp3,
+.streetCred {
+  top: 0.4px;
+  left: 338.3px;
+}
+.idref21009157,
+.streetCred {
+  left: 285.2px;
+}
+.idref21009157 {
+  top: 4.6px;
+  left: 195.7px;
+  font-size: var(--font-size-4xs-6);
+  letter-spacing: -0.08em;
+  line-height: 97%;
+}
+.groupContainer {
+  position: absolute;
+  top: 57.4px;
+  left: calc(50% - 183.65px);
+  width: 367.3px;
+  height: 21.4px;
+}
+.lineDiv {
+  position: absolute;
+  top: 54.3px;
+  left: 0.2px;
+  border-top: 0.5px solid var(--color-indianred);
+  box-sizing: border-box;
+  width: 367.1px;
+  height: 0.5px;
+}
+.frameChild9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 127.2px;
+  height: 51.7px;
+}
+.onTheRise {
+  width: 46.7px;
+  position: relative;
+  line-height: 95%;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.frameChild10 {
+  width: 59.1px;
+  position: relative;
+  box-shadow: 0 0 0.32px #db544c, 0 0 0.32px #db544c, 0 0 0.32px #db544c,
+    0 0 0.32px #db544c, 0 0 0.32px #db544c;
+  border-top: 0.6px solid var(--color-indianred);
+  box-sizing: border-box;
+  height: 0.6px;
+}
+.onTheRiseParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.youMadeIt {
+  width: 104px;
+  position: relative;
+  font-size: var(--font-size-6xs-5);
+  line-height: 105%;
+  font-weight: 600;
+  text-align: justify;
+  display: inline-block;
+}
+.frameDiv {
+  position: absolute;
+  top: 5.5px;
+  left: 12.3px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.29px 0;
+}
+.vectorContainer {
+  position: absolute;
+  top: 0;
+  left: 135.6px;
+  backdrop-filter: blur(9.12px);
+  width: 127.2px;
+  height: 51.7px;
+  overflow: hidden;
+}
+.groupChild7 {
+  top: 19.6px;
+  left: 124.7px;
+  background-color: var(--color-indianred);
+  width: 4.7px;
+  height: 13.3px;
+}
+.clockChild,
+.groupChild7,
+.pm {
+  position: absolute;
+}
+.clockChild {
+  top: 0;
+  left: 0;
+  border-radius: 3.92px;
+  background-color: var(--color-gray-400);
+  border: 2.4px solid var(--color-indianred);
+  box-sizing: border-box;
+  width: 119.2px;
+  height: 51.7px;
+}
+.pm {
+  top: 16.5px;
+  left: 16.5px;
+  line-height: 105%;
+  font-weight: 600;
+}
+.clock,
+.frameContainer {
+  position: absolute;
+  top: 0;
+  height: 51.7px;
+}
+.clock {
+  left: 0;
+  width: 119.2px;
+  font-size: var(--font-size-lgi-4);
+  color: var(--color-darkturquoise);
+}
+.frameContainer {
+  left: 0.4px;
+  width: 262.8px;
+  font-size: var(--font-size-5xs-3);
+}
+.groupParent {
+  position: absolute;
+  top: 36px;
+  left: calc(50% - 51.5px);
+  width: 367.3px;
+  height: 78.8px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 89px;
+  left: 0;
+  width: 765px;
+  height: 162.4px;
+}
+.socialsChild,
+.vectorIcon1 {
+  width: 31.4px;
+  position: relative;
+  height: 25.4px;
+}
+.vectorIcon1 {
+  width: 20px;
+  height: 20px;
+  z-index: 0;
+}
+.vectorIcon2 {
+  width: 52%;
+  position: absolute;
+  margin: 0 !important;
+  height: 49.5%;
+  top: 22%;
+  right: 24%;
+  bottom: 28.5%;
+  left: 24%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.flatCopy5 {
+  position: absolute;
+  top: calc(50% - 10.3px);
+  left: calc(50% - 10.3px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 5.41px;
+}
+.linkedin {
+  position: absolute;
+  top: 2.9px;
+  left: 9px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+}
+.groupChild8,
+.socials {
+  position: absolute;
+  top: 0;
+}
+.groupChild8 {
+  left: 0;
+  width: 31.4px;
+  height: 25.4px;
+}
+.socials {
+  left: 652px;
+  backdrop-filter: blur(16.08px);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7.88px 0;
+}
+.frameParent {
+  position: absolute;
+  top: 618px;
+  left: -328px;
+  width: 765px;
+  height: 251.4px;
+  text-align: left;
+  font-size: var(--font-size-8xs-9);
+  color: var(--color-indianred);
+}
+.rulesInner {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  background-color: var(--color-black);
+  backdrop-filter: blur(35px);
+  width: 373px;
+  height: 37px;
+}
+.ureckonvectorIcon {
+  position: absolute;
+  height: 91.95%;
+  width: 8.68%;
+  top: 0;
+  right: 45.45%;
+  bottom: 8.05%;
+  left: 45.87%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild9 {
+  position: absolute;
+  top: calc(50% - 9.15px);
+  left: 295.3px;
+  width: 38.9px;
+  height: 18px;
+}
+.navbaruemlogoIcon {
+  position: absolute;
+  top: calc(50% - 15.15px);
+  left: calc(50% - 167.1px);
+  width: 37.3px;
+  height: 30.3px;
+  object-fit: cover;
+  mix-blend-mode: normal;
+}
+.groupDiv,
+.nav {
+  position: absolute;
+}
+.groupDiv {
+  top: calc(50% - 14.15px);
+  left: 0;
+  width: 334.2px;
+  height: 30.3px;
+}
+.nav {
+  height: 3.89%;
+  width: 89.36%;
+  top: 0.6%;
+  right: 5.4%;
+  bottom: 95.51%;
+  left: 5.24%;
+}
+.rules {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gray-300);
+  height: 831px;
+  overflow: hidden;
+  text-align: justify;
+  font-size: var(--font-size-smi-5);
+  color: var(--color-yellow-100);
+  font-family: var(--font-oxanium);
+}

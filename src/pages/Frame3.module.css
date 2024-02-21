@@ -1,0 +1,46 @@
+.vectorIcon {
+  width: 41px;
+  position: relative;
+  height: 49px;
+}
+.online,
+.venue {
+  position: relative;
+  letter-spacing: 0.2em;
+  font-weight: 300;
+}
+.online {
+  line-height: 95%;
+  color: var(--color-white);
+}
+.vectorParent,
+.venueParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px 0;
+}
+.vectorParent {
+  flex-direction: row;
+  align-items: flex-end;
+  gap: 0 6px;
+}
+.vectorIcon1 {
+  width: 47px;
+  position: relative;
+  height: 47px;
+}
+.frameParent {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 20px;
+  text-align: left;
+  font-size: var(--font-size-smi-2);
+  color: var(--color-silver);
+  font-family: var(--font-oxanium);
+}

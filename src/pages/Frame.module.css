@@ -1,0 +1,27 @@
+.frameChild,
+.frameInner,
+.frameItem {
+  position: absolute;
+  top: 47px;
+  left: 94px;
+  width: 348px;
+  height: 549.5px;
+}
+.frameInner,
+.frameItem {
+  top: 165px;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro-100);
+  width: 33px;
+  height: 33px;
+}
+.frameInner {
+  top: 363px;
+}
+.vectorParent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 672px;
+  overflow: hidden;
+}

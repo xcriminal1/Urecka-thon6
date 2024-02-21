@@ -1,0 +1,27 @@
+.vectorIcon,
+.vectorIcon1 {
+  position: absolute;
+  height: 47.58%;
+  width: 94.86%;
+  top: 52.42%;
+  right: 0;
+  bottom: 0;
+  left: 5.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vectorIcon1 {
+  height: 90.18%;
+  width: 96.19%;
+  top: 0;
+  right: 3.81%;
+  bottom: 9.82%;
+  left: 0;
+}
+.frame {
+  width: 100%;
+  position: relative;
+  height: 66.2px;
+  overflow: hidden;
+}

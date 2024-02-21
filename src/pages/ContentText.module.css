@@ -1,0 +1,10 @@
+.content {
+  width: 315.4px;
+  position: relative;
+  font-size: var(--font-size-smi-5);
+  line-height: 100%;
+  font-family: var(--font-oxanium);
+  color: var(--color-yellow-100);
+  text-align: justify;
+  display: inline-block;
+}

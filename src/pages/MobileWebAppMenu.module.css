@@ -1,0 +1,36 @@
+.text {
+  position: relative;
+  line-height: 95%;
+  text-transform: uppercase;
+}
+.navlink {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.aboutUs {
+  margin: 0;
+}
+.navlinkParent {
+  position: absolute;
+  top: 95px;
+  left: 232px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 54px 0;
+}
+.mobileWebAppMenu {
+  width: 100%;
+  position: relative;
+  background-color: rgba(0, 0, 0, 0.01);
+  backdrop-filter: blur(25px);
+  height: 800px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base-3);
+  color: var(--color-white);
+  font-family: var(--font-oxanium);
+}

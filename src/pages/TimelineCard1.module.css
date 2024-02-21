@@ -1,0 +1,409 @@
+.layer3Icon,
+.parallelogramsIcon {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon {
+  height: 8.2%;
+  width: 3.8%;
+  top: 0;
+  right: 94.1%;
+  bottom: 91.8%;
+  left: 2.11%;
+  object-fit: contain;
+}
+.parallelogramsIcon {
+  height: 0.82%;
+  width: 11.08%;
+  top: 34.34%;
+  right: 72%;
+  bottom: 64.84%;
+  left: 16.92%;
+}
+.february2024 {
+  position: absolute;
+  top: 5.99%;
+  left: 8.98%;
+  line-height: 95%;
+  font-weight: 300;
+}
+.groupChild,
+.groupItem {
+  position: absolute;
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupChild {
+  height: 31.93%;
+  width: 100%;
+  top: 0;
+  bottom: 68.07%;
+  left: 0;
+  object-fit: contain;
+}
+.groupItem {
+  height: 69.39%;
+  width: 90.89%;
+  top: 30.67%;
+  bottom: -0.05%;
+  left: 9.11%;
+  border-radius: var(--br-11xs-4);
+}
+.content,
+.groupInner {
+  position: absolute;
+  left: 11.56%;
+}
+.groupInner {
+  height: 3.23%;
+  width: 87.33%;
+  top: 54.98%;
+  right: 1.11%;
+  bottom: 41.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.content {
+  width: 64.88%;
+  top: 61.34%;
+  line-height: 100%;
+  display: inline-block;
+}
+.registrationStarts {
+  position: absolute;
+  top: 47.15%;
+  left: 10.89%;
+  font-size: var(--font-size-sm);
+  line-height: 95%;
+}
+.eventTimeChild {
+  position: absolute;
+  height: 93.33%;
+  width: 14.18%;
+  top: 6.67%;
+  right: 0;
+  bottom: 0;
+  left: 85.82%;
+  border-radius: var(--br-12xs-7);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.am {
+  top: 26.67%;
+  left: 87.23%;
+  line-height: 95%;
+  font-weight: 500;
+}
+.am,
+.div,
+.eventTime {
+  position: absolute;
+}
+.div {
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+  line-height: 95%;
+  font-weight: 300;
+}
+.eventTime {
+  height: 5.75%;
+  width: 31.34%;
+  top: 47.15%;
+  right: 1.11%;
+  bottom: 47.1%;
+  left: 67.55%;
+}
+.hackathon {
+  position: absolute;
+  top: 42.94%;
+  left: 11.11%;
+  letter-spacing: 0.25em;
+  line-height: 95%;
+  font-weight: 300;
+}
+.cylonHeadIcon {
+  position: absolute;
+  height: 24.53%;
+  width: 14.23%;
+  top: 61.34%;
+  right: 6.45%;
+  bottom: 14.13%;
+  left: 79.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupParent {
+  position: absolute;
+  height: 33.95%;
+  width: 27.1%;
+  top: 0;
+  right: 71.09%;
+  bottom: 66.05%;
+  left: 1.81%;
+  font-size: var(--font-size-6xs);
+  color: var(--color-white);
+}
+.property1time1Child {
+  position: absolute;
+  height: 142.47%;
+  width: 0.96%;
+  top: 3.12%;
+  right: 95.42%;
+  bottom: -45.59%;
+  left: 3.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+}
+.property1time1 {
+  width: 1162px;
+  position: relative;
+  height: 537.8px;
+}
+.layer3Icon1,
+.parallelogramsIcon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon1 {
+  height: 8.2%;
+  width: 3.8%;
+  top: 43.6%;
+  right: 94.14%;
+  bottom: 48.2%;
+  left: 2.07%;
+  object-fit: contain;
+}
+.parallelogramsIcon1 {
+  height: 0.82%;
+  width: 11.08%;
+  top: 77.93%;
+  right: 72.05%;
+  bottom: 21.25%;
+  left: 16.87%;
+}
+.february20241 {
+  position: absolute;
+  top: 49.74%;
+  left: 8.86%;
+  line-height: 95%;
+  font-weight: 300;
+}
+.groupIcon,
+.vectorIcon {
+  position: absolute;
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.groupIcon {
+  height: 31.91%;
+  width: 100%;
+  top: 0;
+  bottom: 68.09%;
+  left: 0;
+  object-fit: contain;
+}
+.vectorIcon {
+  height: 69.35%;
+  width: 90.89%;
+  top: 30.65%;
+  bottom: 0;
+  left: 9.11%;
+  border-radius: var(--br-11xs-4);
+}
+.content1,
+.groupChild1 {
+  position: absolute;
+  left: 11.56%;
+}
+.groupChild1 {
+  height: 3.23%;
+  width: 87.33%;
+  top: 54.95%;
+  right: 1.11%;
+  bottom: 41.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.content1 {
+  width: 64.89%;
+  top: 61.3%;
+  line-height: 100%;
+  display: inline-block;
+}
+.registrationStarts1 {
+  position: absolute;
+  top: 47.13%;
+  left: 10.89%;
+  font-size: var(--font-size-sm);
+  line-height: 95%;
+}
+.eventTime1 {
+  position: absolute;
+  height: 5.75%;
+  width: 31.33%;
+  top: 47.13%;
+  right: 1.11%;
+  bottom: 47.13%;
+  left: 67.56%;
+}
+.hackathon1 {
+  position: absolute;
+  top: 42.91%;
+  left: 11.11%;
+  letter-spacing: 0.25em;
+  line-height: 95%;
+  font-weight: 300;
+}
+.cylonHeadIcon1 {
+  position: absolute;
+  height: 24.52%;
+  width: 14.22%;
+  top: 61.3%;
+  right: 6.44%;
+  bottom: 14.18%;
+  left: 79.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.groupContainer {
+  position: absolute;
+  height: 33.97%;
+  width: 27.11%;
+  top: 43.6%;
+  right: 71.17%;
+  bottom: 22.42%;
+  left: 1.72%;
+  font-size: var(--font-size-6xs);
+  color: var(--color-white);
+}
+.property1time2Child {
+  height: 142.53%;
+  width: 0.96%;
+  top: 0;
+  right: 95.51%;
+  bottom: -42.53%;
+  left: 3.53%;
+  object-fit: contain;
+}
+.layer3Icon2,
+.parallelogramsIcon2,
+.property1time2Child {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon2 {
+  height: 8.2%;
+  width: 3.8%;
+  top: 90.59%;
+  right: 94.14%;
+  bottom: 1.21%;
+  left: 2.07%;
+  object-fit: contain;
+}
+.parallelogramsIcon2 {
+  height: 0.82%;
+  width: 11.08%;
+  top: 124.92%;
+  right: 72.05%;
+  bottom: -25.73%;
+  left: 16.87%;
+}
+.february20242 {
+  position: absolute;
+  top: 96.58%;
+  left: 8.86%;
+  line-height: 95%;
+  font-weight: 300;
+}
+.groupDiv {
+  position: absolute;
+  height: 33.97%;
+  width: 27.11%;
+  top: 90.59%;
+  right: 71.17%;
+  bottom: -24.56%;
+  left: 1.72%;
+  font-size: var(--font-size-6xs);
+  color: var(--color-white);
+}
+.layer3Icon3,
+.parallelogramsIcon3 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.layer3Icon3 {
+  height: 8.2%;
+  width: 3.8%;
+  top: 137.41%;
+  right: 94.14%;
+  bottom: -45.61%;
+  left: 2.07%;
+  object-fit: contain;
+}
+.parallelogramsIcon3 {
+  height: 0.82%;
+  width: 11.08%;
+  top: 171.74%;
+  right: 72.05%;
+  bottom: -72.55%;
+  left: 16.87%;
+}
+.february20243 {
+  position: absolute;
+  top: 143.36%;
+  left: 8.86%;
+  line-height: 95%;
+  font-weight: 300;
+}
+.groupParent1 {
+  position: absolute;
+  height: 33.97%;
+  width: 27.11%;
+  top: 137.41%;
+  right: 71.17%;
+  bottom: -71.38%;
+  left: 1.72%;
+  font-size: var(--font-size-6xs);
+  color: var(--color-white);
+}
+.timelineCard {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 1431px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-xl);
+  gap: 0 39px;
+  text-align: left;
+  font-size: var(--font-size-smi-6);
+  color: var(--color-darkturquoise);
+  font-family: var(--font-oxanium);
+}

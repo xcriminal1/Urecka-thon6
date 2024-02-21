@@ -1,0 +1,95 @@
+.frameChild,
+.trackCardChild {
+  position: relative;
+  border-radius: 1.08px;
+}
+.trackCardChild {
+  width: 434.2px;
+  height: 225.5px;
+  object-fit: contain;
+  z-index: 0;
+}
+.frameChild {
+  width: 31px;
+  height: 216px;
+}
+.fintech,
+.trackName {
+  position: relative;
+  line-height: 75%;
+}
+.trackName {
+  letter-spacing: 0.2em;
+  font-weight: 300;
+}
+.fintech {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-indianred);
+  text-align: left;
+}
+.trackNameParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 5px 0;
+}
+.frameItem {
+  width: 269.5px;
+  position: relative;
+  border-top: 0.5px solid var(--color-indianred);
+  box-sizing: border-box;
+  height: 0.5px;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0 19px;
+}
+.loremIpsumDolor {
+  width: 269px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 20px;
+  font-weight: 500;
+  text-align: left;
+  display: flex;
+  align-items: center;
+  height: 76px;
+  flex-shrink: 0;
+}
+.frameParent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 46px 0;
+}
+.frameParent,
+.trackCard,
+.vectorParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.vectorParent {
+  margin: 0 !important;
+  position: absolute;
+  top: 6px;
+  left: 4.5px;
+  flex-direction: row;
+  align-items: center;
+  gap: 0 5px;
+  z-index: 1;
+}
+.trackCard {
+  position: relative;
+  width: 100%;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px 0;
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  color: var(--color-white);
+  font-family: var(--font-oxanium);
+}

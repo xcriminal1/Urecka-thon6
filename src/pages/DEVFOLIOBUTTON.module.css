@@ -1,0 +1,72 @@
+.property1defaultChild {
+  width: 191px;
+  position: relative;
+  border-radius: 3.62px;
+  height: 89px;
+  z-index: 0;
+}
+.groupIcon {
+  width: 26.3px;
+  position: relative;
+  height: 28.9px;
+}
+.devfolio,
+.goToProjects {
+  position: relative;
+  line-height: 95%;
+}
+.devfolio {
+  letter-spacing: 0.2em;
+  font-weight: 300;
+}
+.goToProjects {
+  font-size: var(--font-size-mini-5);
+  font-weight: 600;
+}
+.devfolioParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.62px 0;
+}
+.groupParent,
+.property1default,
+.property1variant2 {
+  position: absolute;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.groupParent {
+  margin: 0 !important;
+  top: 30.4px;
+  left: 18.1px;
+  justify-content: flex-start;
+  gap: 0 13.75px;
+  z-index: 1;
+}
+.property1default,
+.property1variant2 {
+  top: 20px;
+  left: 20px;
+  justify-content: center;
+  gap: 0 7.24px;
+}
+.property1variant2 {
+  top: 129px;
+  color: var(--color-white);
+}
+.devfolioButton {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 238px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-2xs-9);
+  color: var(--color-black);
+  font-family: var(--font-oxanium);
+}

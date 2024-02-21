@@ -1,0 +1,14 @@
+.venueOnline {
+  margin: 0;
+}
+.venueOnlineLinkContainer {
+  width: 179px;
+  position: relative;
+  font-size: var(--font-size-xl);
+  line-height: 95%;
+  font-weight: 300;
+  font-family: var(--font-oxanium);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
